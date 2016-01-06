@@ -13,6 +13,6 @@
 		"img/icon128.png"
 	],
 	"background": {
-        "scripts": ["js/jquery-2.0.3.min.js","js/khaledify.js"]
+        "scripts": ["js/khaledify.js"]
     }
 }
